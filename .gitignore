@@ -97,9 +97,10 @@ dmypy.json
 .pyre/
 
 # Data version control
-.dvc/
+.dvc/cache/
+.dvc/tmp/
+.dvc/plots/
 .dvc.lock
-.dvc.plots/
 
 # Operating System Files
 .DS_Store

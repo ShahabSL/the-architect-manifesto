@@ -1,0 +1,5 @@
+outs:
+- md5: a4ee8c09e3f27bebc33223c775584c67
+  size: 21688
+  hash: md5
+  path: sample_tinystories.json

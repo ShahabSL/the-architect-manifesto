@@ -1,0 +1,5 @@
+outs:
+- md5: f1ab531b580a77451b5b7cbe00e1411f
+  size: 19285
+  hash: md5
+  path: tinystories_text.txt
